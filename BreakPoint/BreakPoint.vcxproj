@@ -22,6 +22,7 @@
     <ProjectGuid>{DE181C10-418C-4E11-A677-EAD3A42F07BC}</ProjectGuid>
     <RootNamespace>BreakPoint</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>01. BreakPoint</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
